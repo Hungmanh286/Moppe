@@ -22,5 +22,5 @@ Welcome to the **Ecommerce** project!
 This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
 ## Demo web
-Link : https://www.youtube.com/watch?v=7NoVBbEmbio
+- Link : https://www.youtube.com/watch?v=7NoVBbEmbio
 ---
