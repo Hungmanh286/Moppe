@@ -20,7 +20,7 @@ app.use(cookieParser())
 
 routes(app);
 
-mongoose.connect(`mongodb+srv://nmh:${'REDACTED_PASSWORD'}@cluster0.vngosc3.mongodb.net/`)
+mongoose.connect(process.env.MONGODB_URI)
 .then(() => {
     console.log('Connect DB success!')
 })
